@@ -70,4 +70,3 @@ class SupportState(TypedDict, total=False):
     # ── Bookkeeping ──
     status: str
     # short status string for where the case is in the flow
-}],
